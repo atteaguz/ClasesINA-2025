@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9768417E-4B78-48A8-92F5-B1D971343A7D}|Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\primerproyectoapp\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9768417E-4B78-48A8-92F5-B1D971343A7D}|Services\\Services.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F6894-C9CE-4633-B3B0-08390313C452}|Entities\\Entities.csproj|c:\\users\\usuario\\source\\repos\\primerproyectoapp\\entities\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4F6894-C9CE-4633-B3B0-08390313C452}|Entities\\Entities.csproj|solutionrelative:entities\\clsproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046F0D49-19EF-4937-9FCF-1F22C2DDC18F}|DAO\\DAO.csproj|c:\\users\\usuario\\source\\repos\\primerproyectoapp\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046F0D49-19EF-4937-9FCF-1F22C2DDC18F}|DAO\\DAO.csproj|solutionrelative:dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\ui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|solutionrelative:ui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|c:\\users\\usuario\\source\\repos\\primerproyectoapp\\ui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|solutionrelative:ui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|c:\\users\\usuario\\source\\repos\\primerproyectoapp\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3191EDB1-7DA1-47B0-8CAC-22DA1C33491E}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Services\\ProductoService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwGcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T17:08:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\DAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\DAO\\ProductoDAO.cs",
+              "RelativeToolTip": "DAO\\ProductoDAO.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwEAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:19:51.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\Entities\\clsProducto.cs",
+              "RelativeDocumentMoniker": "Entities\\clsProducto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\Entities\\clsProducto.cs",
+              "RelativeToolTip": "Entities\\clsProducto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T14:33:02.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T15:54:21.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\frmPrincipal.cs",
+              "RelativeToolTip": "UI\\frmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T15:37:41.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\PrimerProyectoAPP\\UI\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:42:09.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

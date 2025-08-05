@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\bin\Debug\net8.0\DAO.deps.json
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\bin\Debug\net8.0\DAO.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\bin\Debug\net8.0\DAO.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\refint\DAO.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\ref\DAO.dll
