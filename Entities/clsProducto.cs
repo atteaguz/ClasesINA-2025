@@ -18,7 +18,7 @@ namespace Entities
         //propiedades
         public void setNombre(string nombre) {
             //Validacion y comprobacion del dato
-            if (nombre.Length <= 5) {
+            if (nombre.Length >= 5) {
                 throw new Exception("El nombre debe de tener mas de 5 caracteres");
             }
             this.nombre = nombre.ToLower();
@@ -30,7 +30,7 @@ namespace Entities
 
         //Forma nueva de crear atributos con sus propiedades
         public int id { get; set; }
-        public int precio { get; set; }
+        public decimal precio { get; set; }
         public int cantidad { get; set; }
 
         //Constructores

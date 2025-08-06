@@ -9,3 +9,8 @@ C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.dll
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\refint\DAO.dll
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.pdb
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\ref\DAO.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\bin\Debug\net8.0\Entities.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\bin\Debug\net8.0\Entities.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.sourcelink.json
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\DAO\obj\Debug\net8.0\DAO.csproj.Up2Date

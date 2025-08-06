@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Common\obj\Debug\net8.0\ref\Common.dll

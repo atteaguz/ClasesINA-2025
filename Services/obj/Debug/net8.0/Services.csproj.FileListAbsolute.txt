@@ -13,3 +13,6 @@ C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\obj\Debug\net8.0\Servic
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\obj\Debug\net8.0\refint\Services.dll
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\obj\Debug\net8.0\Services.pdb
 C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\bin\Debug\net8.0\Entities.dll
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\bin\Debug\net8.0\Entities.pdb
+C:\Users\Usuario\source\repos\PrimerProyectoAPP\Services\obj\Debug\net8.0\Services.sourcelink.json
